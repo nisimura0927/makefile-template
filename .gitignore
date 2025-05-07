@@ -1,0 +1,12 @@
+
+*.o
+a.out
+*.exe
+main
+test
+*~
+*.swp
+*.bak
+.DS_Store
+bin/
+build/
